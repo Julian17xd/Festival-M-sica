@@ -1,0 +1,16 @@
+# Ignorar dependencias de Node.js
+node_modules/
+
+# Ignorar archivos fuente del desarrollo
+src/
+
+# Ignorar archivos de Gulp y de configuración
+gulpfile.js
+
+# Ignorar archivos de paquetes
+package.json
+package-lock.json
+
+# Si tienes un directorio de SASS sin compilar (opcional)
+*.sass
+*.scss
